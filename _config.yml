@@ -1,0 +1,11 @@
+#Site Settings
+title: Noah Valve Actuation, Inc.
+baseurl: ""
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+#Build Settings
+markdown: kramdown
